@@ -1,17 +1,21 @@
 self.assetsManifest = {
-  "version": "Ym0RG9Qq",
+  "version": "3x/y0BXZ",
   "assets": [
     {
       "hash": "sha256-UqF4T/8gINmBti0hE4BS3yh3oVQrWF7suM6LE9DtevA=",
       "url": "Cuidamed.styles.css"
     },
     {
+      "hash": "sha256-LeNfo6LhpEEf/muObpYn8ImXoX/XnEDRT/h5TG/QdYs=",
+      "url": "LogoCuidaNet.png"
+    },
+    {
       "hash": "sha256-itxgC9CUXgA0s57EK2bjpHhRABlrtO8ndt+ThYI7Lus=",
       "url": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js"
     },
     {
-      "hash": "sha256-NSKzFPkWGX0m+6hRLcIaFzG9fIabcYDXDnnoxCxYH+w=",
-      "url": "_framework/Cuidamed.1pzi1rf34b.wasm"
+      "hash": "sha256-rNzsxKuOfLDm8M/cvVTKHIQJXBl6MBWHNowQfa+ZO3M=",
+      "url": "_framework/Cuidamed.wlwhg9pw4u.wasm"
     },
     {
       "hash": "sha256-QJCoTwE5HLTvR4HyYHu8G921L2t8WqYZsx5q0AEgwgo=",
@@ -222,12 +226,12 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.958z1vx7fr.js"
     },
     {
-      "hash": "sha256-vul7ps1ZwYF3tBLwMrl0ZB4nrNlpt0HtkNJYG8BkEi4=",
-      "url": "_framework/dotnet.mqoexlkssn.js"
+      "hash": "sha256-DYlinxqG9SIA3Oum0nWcVlurtGkkU1PmLxELLsKsnNA=",
+      "url": "_framework/dotnet.l6etgzaqqz.js"
     },
     {
-      "hash": "sha256-oPjWxs8H0HXWL/RLErxi2AHcdQyVR0niY4fqgQnKyD4=",
-      "url": "_framework/dotnet.native.oyosasip7g.wasm"
+      "hash": "sha256-x6yAa3SkG47za2uUgnffmc5aHs5b7QrfeK+LrBNFguc=",
+      "url": "_framework/dotnet.native.hqguri6vmb.wasm"
     },
     {
       "hash": "sha256-Fa32zILYa+xsXP5YQM7Hj/eK+Pp4KwN8GtDlK8uIZQ8=",
@@ -282,7 +286,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-OZ9BHmmBPzvOWAE1tRGPBXO6FmXE4OZeJ45I3OCSu/I=",
+      "hash": "sha256-qZJ4K2J6lsL5aO/vp7o77yMJy5VBNZ6+rucymyqata0=",
       "url": "index.html"
     },
     {
