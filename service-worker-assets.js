@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "SM0S7Zv/",
+  "version": "p2Q75X1a",
   "assets": [
     {
       "hash": "sha256-UqF4T/8gINmBti0hE4BS3yh3oVQrWF7suM6LE9DtevA=",
@@ -14,8 +14,8 @@ self.assetsManifest = {
       "url": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js"
     },
     {
-      "hash": "sha256-QZOkmPCEt1C3ghE5HLAK1Ud/K+J+5gN8j8SWC+3yywQ=",
-      "url": "_framework/Cuidamed.nye4cjtrtm.wasm"
+      "hash": "sha256-uBL/8sujH1Ty14zhDhlg9Mqyno84Jf44kF7S0qYti7w=",
+      "url": "_framework/Cuidamed.4djde3ll1i.wasm"
     },
     {
       "hash": "sha256-QJCoTwE5HLTvR4HyYHu8G921L2t8WqYZsx5q0AEgwgo=",
@@ -226,20 +226,20 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.958z1vx7fr.js"
     },
     {
-      "hash": "sha256-HfBZ9nQyCroYcEfislplOXmQePUFp6IHnQWqTCiZvxw=",
-      "url": "_framework/dotnet.lisbjue6fx.js"
+      "hash": "sha256-3rvjfIKM7uVH4hKZikkIMsIy264GPrS5HFvglaK3Z/Y=",
+      "url": "_framework/dotnet.native.2rlr1pviha.wasm"
     },
     {
       "hash": "sha256-57/EH9Sh/zw5pFmM1gApZz7E+ZntO1v0eODi+hkwsd0=",
       "url": "_framework/dotnet.native.bb1hzbldle.js"
     },
     {
-      "hash": "sha256-PLuvFXMBc7k9un5Tj9rkExL4k4+ucg0f2NpngTNnB/0=",
-      "url": "_framework/dotnet.native.wvo1bfk7gp.wasm"
-    },
-    {
       "hash": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
       "url": "_framework/dotnet.runtime.a6jcqbs390.js"
+    },
+    {
+      "hash": "sha256-2W1h5cRoZXFv9Isy0uWlBfITn6cKV+3zBrA1SuVvXqU=",
+      "url": "_framework/dotnet.tj5voufkm4.js"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -286,7 +286,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-7/TvEamSuS69qKwBVld816szhtkhJO7AUafAKop/8Gg=",
+      "hash": "sha256-4rbGWRDp7hrfqMxNZZRdCp3omd/O3uGeRtAxzGmgrlE=",
       "url": "index.html"
     },
     {
@@ -484,6 +484,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-kH6Vrx1orHMbHuf0I1PYZaP6N0tY5SCa9lYDVDkqapA=",
       "url": "sintomas.png"
+    },
+    {
+      "hash": "sha256-N4h7uf3Z8lkhdDtQZPB0ZR6BL5Dk7AVNT7bD1o60wTo=",
+      "url": "watermarked_img_2602115700390615759.png"
     }
   ]
 };
