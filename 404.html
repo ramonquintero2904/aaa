@@ -39,16 +39,7 @@
     <script src="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js"></script>
 
     <script src="_framework/blazor.webassembly.js" autostart="false"></script>
-    <script>
-        Blazor.start({
-            loadBootResource: function (type, name, defaultUri, integrity) {
-                // Desactiva la búsqueda de archivos comprimidos .br si GitHub Pages no los sirve
-                if (type !== 'dotnetjs' && defaultUri.endsWith('.br')) {
-                    return defaultUri.replace('.br', '');
-                }
-            }
-        });
-    </script>
+
 
     <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
 
